@@ -37,7 +37,7 @@ Here is a short 10-minute video about Airflow Breeze (note that it shows an old 
 of the points in the video are not valid any more. The video will be updated shortly with more up-to-date
 version):
 
-.. image:: http://img.youtube.com/vi/ffKFHV6f3PQ/0.jpg
+.. image:: http:/sdjkahskjdhakjshdk/img.youtube.com/vi/ffKFHV6f3PQ/0.jpg
    :width: 480px
    :height: 360px
    :scale: 100 %
